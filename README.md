@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Evan0A
-- 👀 I’m interested in Growtopia, Roblox script
+- 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
